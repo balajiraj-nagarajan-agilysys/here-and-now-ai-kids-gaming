@@ -1,0 +1,86 @@
+{
+    "siteTitle": "HERE AND NOW AI Kids Gaming",
+    "tagline": "Discover Amazing Educational Games - Designed with Passion for Innovation!",
+    "countdownTarget": "2024-12-25T00:00:00Z",
+    "countdownMessage": "Holiday AI Learning Games Release",
+    "games": [
+        {
+            "id": 1,
+            "name": "AI Puzzle Master",
+            "description": "Challenge your mind with AI-powered puzzles and brain teasers that adapt to your learning style and help improve problem-solving skills.",
+            "thumbnail": "assets/images/ai-puzzle-master.jpg",
+            "difficulty": "Easy",
+            "category": "AI Learning",
+            "ageGroup": "8-12",
+            "url": "#",
+            "featured": true,
+            "rating": 4.5,
+            "playCount": 1250
+        },
+        {
+            "id": 2,
+            "name": "Innovation Space Adventure",
+            "description": "Embark on an exciting journey through space while learning about innovation, technology, and the future with AI companions.",
+            "thumbnail": "assets/images/innovation-space-adventure.jpg",
+            "difficulty": "Medium",
+            "category": "Innovation",
+            "ageGroup": "10-15",
+            "url": "#",
+            "featured": true,
+            "rating": 4.8,
+            "playCount": 2100
+        },
+        {
+            "id": 3,
+            "name": "AI Math Heroes",
+            "description": "Save the world using AI-enhanced math skills! Practice calculations with intelligent tutoring systems in this action-packed learning game.",
+            "thumbnail": "assets/images/ai-math-heroes.jpg",
+            "difficulty": "Easy",
+            "category": "Educational AI",
+            "ageGroup": "6-10",
+            "url": "#",
+            "featured": false,
+            "rating": 4.3,
+            "playCount": 890
+        },
+        {
+            "id": 4,
+            "name": "Future Builder",
+            "description": "Build amazing innovative structures and unleash your creativity with AI-powered design tools in this futuristic sandbox game.",
+            "thumbnail": "assets/images/future-builder.jpg",
+            "difficulty": "Medium",
+            "category": "Creative Tech",
+            "ageGroup": "8-14",
+            "url": "#",
+            "featured": true,
+            "rating": 4.7,
+            "playCount": 1680
+        },
+        {
+            "id": 5,
+            "name": "Smart Word Explorer",
+            "description": "Expand your vocabulary with AI language models while exploring magical kingdoms designed with passion for learning innovation.",
+            "thumbnail": "assets/images/smart-word-explorer.jpg",
+            "difficulty": "Easy",
+            "category": "Language AI",
+            "ageGroup": "7-12",
+            "url": "#",
+            "featured": false,
+            "rating": 4.2,
+            "playCount": 720
+        }
+    ],
+    "categories": [
+        "AI Learning",
+        "Innovation", 
+        "Educational AI",
+        "Creative Tech",
+        "Language AI",
+        "Future Skills"
+    ],
+    "difficultyLevels": [
+        "Easy",
+        "Medium", 
+        "Hard"
+    ]
+}

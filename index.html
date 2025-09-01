@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kids Gaming Site</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" id="favicon" href="">
+</head>
+<body>
+    <header role="banner">
+        <div class="header-content">
+            <div class="logo-container">
+                <img id="site-logo" src="" alt="Site Logo" style="display: none;">
+                <h1 id="site-title">Kids Gaming Site</h1>
+            </div>
+            <nav aria-label="Main navigation">
+                <!-- TODO: student exercise - add navigation menu -->
+                <ul class="nav-menu" style="display: none;">
+                    <li><a href="#games">Games</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero" aria-labelledby="hero-title">
+            <h2 id="hero-title">Welcome to Gaming Fun!</h2>
+            <p class="tagline" id="site-tagline">Discover amazing games and have fun!</p>
+        </section>
+
+        <section class="countdown" aria-labelledby="countdown-title">
+            <h3 id="countdown-title">Next Game Release</h3>
+            <div id="countdown-timer" aria-live="polite">Loading...</div>
+        </section>
+
+        <section class="games" aria-labelledby="games-title">
+            <h3 id="games-title">Featured Games</h3>
+            <div id="games-container" class="games-grid">
+                <!-- Games will be populated by JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <footer role="contentinfo">
+        <div class="footer-content">
+            <div class="contact-section">
+                <h4>Contact Us</h4>
+                <p id="contact-email">Email: info@example.com</p>
+                <p id="contact-phone">Phone: +1-555-0000</p>
+                <p id="contact-address">Address: 123 Fun Street</p>
+            </div>
+            <div class="social-media">
+                <h4>Follow Us</h4>
+                <div id="social-links" class="social-links">
+                    <!-- TODO: student exercise - add social media links -->
+                </div>
+            </div>
+            <div class="footer-branding">
+                <p id="footer-slogan">Where Fun Meets Learning!</p>
+                <p id="footer-org">© 2024 Kids Gaming Site</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

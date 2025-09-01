@@ -1,0 +1,29 @@
+{
+    "siteName": "HERE AND NOW AI Kids Gaming",
+    "logo": {
+        "url": "https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/logo-of-here-and-now-ai.png",
+        "alt": "HERE AND NOW AI Logo",
+        "favicon": "https://raw.githubusercontent.com/hereandnowai/images/refs/heads/main/logos/favicon-logo-with-name.png"
+    },
+    "contact": {
+        "email": "info@hereandnowai.com",
+        "phone": "+91 996 296 1000",
+        "address": "HERE AND NOW AI, Innovation Hub"
+    },
+    "socialMedia": {
+        "blog": "https://hereandnowai.com/blog",
+        "linkedin": "https://www.linkedin.com/company/hereandnowai/",
+        "instagram": "https://instagram.com/hereandnow_ai",
+        "github": "https://github.com/hereandnowai",
+        "twitter": "https://x.com/hereandnow_ai",
+        "youtube": "https://youtube.com/@hereandnow_ai"
+    },
+    "slogan": "designed with passion for innovation",
+    "description": "Educational gaming platform designed with passion for innovation, helping kids learn through interactive experiences.",
+    "organizationName": "HERE AND NOW AI",
+    "website": "https://hereandnowai.com",
+    "colors": {
+        "primary": "#FFDF00",
+        "secondary": "#004040"
+    }
+}
